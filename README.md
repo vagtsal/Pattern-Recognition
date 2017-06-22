@@ -26,5 +26,5 @@ __*.java__ : Code
 
 __report.pdf__ : Reports of the analysis (in greek)
 
-__PR2017_Homework/<X/>.pdf__ : Assignments instructions (in greek)
+__PR2017_Homework\<X\>.pdf__ : Assignments instructions (in greek)
 
