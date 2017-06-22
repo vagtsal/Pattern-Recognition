@@ -24,6 +24,8 @@ Two algorithms for data clustering:
 
 __*.java__ : Code
 
+__*.dat, *.txt__ : Imported Data
+
 __report.pdf__ : Reports of the analysis (in greek)
 
 __PR2017_Homework\<X\>.pdf__ : Assignments instructions (in greek)
