@@ -23,5 +23,8 @@ Two algorithms for data clustering:
 ### Files
 
 __*.java__ : Code
+
 __report.pdf__ : Report of the analysis (in greek)
+
 __PR2017_Homework<X>.pdf__ : Assignments instructions (in greek)
+
